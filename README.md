@@ -1,2 +1,1 @@
-# ML
-Some material on machine learning
+ML
